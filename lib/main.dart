@@ -7,13 +7,13 @@ void main() {
         body: Container(
           decoration: const BoxDecoration(
             gradient: LinearGradient(colors: [
-              Color.fromARGB(255, 17, 8, 71),
-              Color.fromARGB(255, 16, 13, 39)
+              Color.fromARGB(255, 8, 71, 29),
+              Color.fromARGB(255, 25, 39, 13)
             ]),
           ),
           child: const Center(
             child: Text(
-              "Muhammad Raza Baangi",
+              "Muhammad Raza Bangi",
               style: TextStyle(
                 color: Color.fromARGB(255, 245, 245, 245), 
                 fontSize: 23
